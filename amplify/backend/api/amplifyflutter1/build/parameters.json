@@ -1,0 +1,8 @@
+{
+    "CreateAPIKey": 1,
+    "AppSyncApiName": "amplifyflutter1",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-amplifyflutter1-staging-80142-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/ce6f9e9d0aa6bdf4b7a7d9927bdf76a0a1099490"
+}
